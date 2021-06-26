@@ -1,10 +1,4 @@
 # chat-app
-<<<<<<< HEAD
-Simple chat application,it uses socket.io for providing real time changes and data transfer
-
-to run use:
-npm run dev
-=======
 
 used socket.io for real time data transfer.
 
