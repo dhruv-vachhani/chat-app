@@ -49,6 +49,7 @@ textarea {
 }
 
 .message {
+    word-wrap: break-word;
     padding: 20px; 
     border-radius: 4px; 
     margin-bottom: 40px;
